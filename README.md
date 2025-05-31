@@ -26,7 +26,7 @@ This project was completed as part of an assignment from **Coding Junior** to de
 
 
 ## 📸 Screenshots
-![Alt Text](./client/src/Images/Screenshot(105).png)
+![Alt Text](./Images/Screenshot(105).png)
 
 
 ---
