@@ -26,7 +26,16 @@ This project was completed as part of an assignment from **Coding Junior** to de
 
 
 ## 📸 Screenshots
-
+![Home Page](./Images/Screenshot(105).png)
+![Home Page](./Images/Screenshot(108).png)
+![Home Page](./Images/Screenshot(109).png)
+![Home Page](./Images/Screenshot(110).png)
+![Home Page](./Images/Screenshot(111).png)
+![Home Page](./Images/Screenshot(112).png)
+![Home Page](./Images/Screenshot(118).png)
+![Home Page](./Images/Screenshot(119).png)
+![Home Page](./Images/Screenshot(120).png)
+![Home Page](./Images/Screenshot(121).png)
 ---
 
 ## 🧪 How to Run Locally
