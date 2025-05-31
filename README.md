@@ -26,7 +26,7 @@ This project was completed as part of an assignment from **Coding Junior** to de
 
 
 ## 📸 Screenshots
-![Home Page](./Images/1.png)
+
 ![Home Page](./Images/2.png)
 ![Home Page](./Images/3.png)
 ![Home Page](./Images/4.png)
