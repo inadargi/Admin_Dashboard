@@ -24,6 +24,9 @@ This project was completed as part of an assignment from **Coding Junior** to de
 - **HTTP**: Axios
 - *(Optional Tools)*: framer-motion, zod, react-hook-form
 
+
+## 📸 Screenshots
+
 ---
 
 ## 🧪 How to Run Locally
